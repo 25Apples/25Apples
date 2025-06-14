@@ -17,12 +17,6 @@ I'm 25Apples – an embedded systems enthusiast currently learning and building 
 ### 📂 Check out my repositories:
 I keep each project in its own folder for clarity – with examples for each peripheral.
 
-👉 Recommended:
-- `ADC`: Read analog values from sensors
-- `PWM` / `Servo`: Control motors or brightness
-- `UART_Transmit`: Print to serial monitor
-- `HC-SR04`: Distance measuring with ultrasonic sensor
-
 ---
 
 📫 Reach out if you’re learning embedded too – we can grow together.  
