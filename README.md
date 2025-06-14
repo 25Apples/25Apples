@@ -3,10 +3,7 @@
 I'm 25Apples – an embedded systems enthusiast currently learning and building with **STM32** and **low-level firmware**.
 
 ### 🚀 Projects I'm exploring:
-- STM32 peripherals: ADC, PWM, UART, EXTI, Timers...
-- Communication with sensors (HC-SR04, DHT11, etc.)
-- Servo and motor control
-- ESP32 and IoT basics (coming soon)
+- STM32, ESP32, Raspberry Pi and IoT basics (coming soon)
 
 ### 🛠 Skills I'm working on:
 - STM32CubeIDE + HAL
