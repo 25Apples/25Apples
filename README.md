@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**25Apples/25Apples** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 25Apples – an embedded systems enthusiast currently learning and building with **STM32** and **low-level firmware**.
 
-Here are some ideas to get you started:
+### 🚀 Projects I'm exploring:
+- STM32 peripherals: ADC, PWM, UART, EXTI, Timers...
+- Communication with sensors (HC-SR04, DHT11, etc.)
+- Servo and motor control
+- ESP32 and IoT basics (coming soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills I'm working on:
+- STM32CubeIDE + HAL
+- Git & GitHub project organization
+- C programming (embedded focus)
+- Writing clean and modular code
+
+### 📂 Check out my repositories:
+I keep each project in its own folder for clarity – with examples for each peripheral.
+
+👉 Recommended:
+- `ADC`: Read analog values from sensors
+- `PWM` / `Servo`: Control motors or brightness
+- `UART_Transmit`: Print to serial monitor
+- `HC-SR04`: Distance measuring with ultrasonic sensor
+
+---
+
+📫 Reach out if you’re learning embedded too – we can grow together.  
+Thanks for visiting my GitHub!
