@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm 25Apples – an embedded systems enthusiast currently learning and building with **STM32** and **low-level firmware**.
+I'm 25Apples – an embedded systems enthusiast currently learning and building with **low-level firmware**.
 
 ### 🚀 Projects I'm exploring:
 - STM32, ESP32, Raspberry Pi and IoT basics (coming soon)
